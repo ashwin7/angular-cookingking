@@ -1,2 +1,21 @@
-# angular-cookingking
-A cooking recipe and shopping list management tool written in Angular 6
+# AngularCookingKing
+
+This is a Cooking Recipe and Grocery List management application. 
+
+
+This project was created with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2.
+
+## Development server
+
+Run `ng serve` to start dev server. Navigate to `http://localhost:4200/`. The app will automatically refresh if you change any of the source files.
+
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+
